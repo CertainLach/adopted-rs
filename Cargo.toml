@@ -1,0 +1,11 @@
+[package]
+name = "adopted-rs"
+version = "0.1.0"
+authors = ["Yaroslav Bolyukin <iam@lach.pw>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+smallvec = "1.4.2"
+anyhow = "1.0.34"
